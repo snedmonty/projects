@@ -8,4 +8,11 @@
 * There is no strong relationship between latitude and cloudiness, however, it is interesting to see that a strong band of cities sits at 0, 80, and 100% cloudiness.
 * There is no strong relationship between latitude and wind speed, however in northern hemispheres there is a flurry of cities with over 20 mph of wind.
 
+# Banking dessert Heatmaps
+the relationship between states with high unemployment rates and bank counts per state.
+
+# Airport Heatmap
+airports in the US
+
+
 
