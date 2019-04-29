@@ -1,4 +1,4 @@
-﻿Pymoli
+﻿####Pymoli
 
 A analyzing the data for a game. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like to generate a report that breaks down the game's purchasing data into meaningful insights.
 
@@ -28,7 +28,7 @@ A analyzing the data for a game. Like many others in its genre, the game is free
   * Average Purchase Total per Person by Gender
 
 
-City School
+####City School
 
 Helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
 
